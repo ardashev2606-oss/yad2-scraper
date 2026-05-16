@@ -1,10 +1,10 @@
 {
-  "telegramApiToken": null,
-  "chatId": null,
+  "telegramApiToken": "8811786779:AAHTgkib0QodOZ3xBTRqBoUAi0h0lp35skY",
+  "chatId": "-5083891829",
   "projects": [
     {
       "topic": "",
-      "url": ""
+      "url": "https://www.yad2.co.il/vehicles/cars?year=2006-2020&price=0-40000&km=-1-100000&ownerID=1&priceOnly=1&yad2_source=HP_all_latestSearches"
     }
   ]
 }
